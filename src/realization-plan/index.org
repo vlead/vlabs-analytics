@@ -1,0 +1,24 @@
+#+TITLE: Plan for vlabs analytics
+#+AUTHOR: VLEAD
+#+DATE: [2017-11-01 Wed]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+SETUPFILE: ../org-templates/level-1.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+* Introduction
+  This document contains all the projects milestones for the
+  vlabs analytics.
+
+* Project Milestones
+
+| S.NO | Project             |
+|------+---------------------|
+|    1 | [[https://github.com/vlead/analytics-db/blob/develop/src/realization-plan/index.org#plan-for-analytics-database][analytics-database]]  |
+|------+---------------------|
+|    2 | [[https://github.com/vlead/vlabs-analytics-service/blob/develop/src/realization-plan/index.org#plan-for-virtual-labs-analytics-service][analytics-service]]   |
+|------+---------------------|
+|    3 | analytics-dashboard |
+|------+---------------------|
+
